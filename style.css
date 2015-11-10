@@ -1,5 +1,6 @@
 body {
   text-align:center;
+  background-color: #C71E25;
 }
 
 #answer {
@@ -9,5 +10,5 @@ body {
   font-size: 120pt;
   font-family: Arial, sans-serif;
   text-decoration: none;
-  color: black;
+  color: #00592D;
 }
